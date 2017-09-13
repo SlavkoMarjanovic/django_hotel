@@ -7,4 +7,4 @@ Pillow==4.2.1
 psycopg2==2.7.3.1
 pytz==2017.2
 
-superuser slavko/slavko1234
+
