@@ -3,7 +3,9 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
  */
-
+.container {
+ color: #292b2c;
+}
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   background: url('../img/bg.jpg') no-repeat center center fixed;
